@@ -15,10 +15,16 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="소스.c">
+    <ClCompile Include="nullpointer.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="test.c">
+    <ClCompile Include="dereference.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="neighborvar.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="swap.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
