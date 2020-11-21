@@ -45,5 +45,8 @@
     <ClCompile Include="프로그래머스 2016년.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="프로그래머스 핸드폰 번호 가리기.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
