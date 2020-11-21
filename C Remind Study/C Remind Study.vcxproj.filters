@@ -33,5 +33,11 @@
     <ClCompile Include="variousop.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="mallocprint.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="malloc.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
