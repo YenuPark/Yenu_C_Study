@@ -1,2 +1,4 @@
 C:\Users\Owner\source\repos\YenuPark\Yenu_C_Study\C Remind Study\Debug\C Remind Study.exe
 C:\Users\Owner\source\repos\YenuPark\Yenu_C_Study\C Remind Study\Debug\C Remind Study.pdb
+C:\Users\ADMIN\source\repos\Yenu_C_Study\C Remind Study\Debug\C Remind Study.exe
+C:\Users\ADMIN\source\repos\Yenu_C_Study\C Remind Study\Debug\C Remind Study.pdb
