@@ -51,5 +51,8 @@
     <ClCompile Include="프로그래머스 약수찾기.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="프로그래머스 평균구하기.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
